@@ -41,3 +41,4 @@ nessun indirizzo. Nessun segnaposto (TODO, XXX).
 | App | Pagine |
 |---|---|
 | iPDF | https://notmikenot.github.io/apps-docs/ipdf/ |
+| Rinnovi | https://notmikenot.github.io/apps-docs/rinnovi/ |
