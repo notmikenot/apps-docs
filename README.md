@@ -42,3 +42,4 @@ nessun indirizzo. Nessun segnaposto (TODO, XXX).
 |---|---|
 | iPDF | https://notmikenot.github.io/apps-docs/ipdf/ |
 | Rikorda | https://notmikenot.github.io/apps-docs/rikorda/ |
+| Swiper | https://notmikenot.github.io/apps-docs/swiper/ |
